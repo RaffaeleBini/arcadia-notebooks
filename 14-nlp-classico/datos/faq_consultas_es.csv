@@ -1,0 +1,21 @@
+id,consulta,id_documento_relevante,tipo
+1,cómo recupero mi contraseña olvidada,1,facil
+2,qué es la verificación en dos pasos,2,facil
+3,"mi cuenta está bloqueada, qué hago",3,facil
+4,cómo cambio el correo electrónico de mi cuenta,4,facil
+5,qué planes y precios tienen,5,facil
+6,cómo descargo una factura,6,facil
+7,qué métodos de pago aceptan,7,facil
+8,cómo cancelo mi suscripción,8,facil
+9,cómo sincronizo la app entre mi ordenador y mi móvil,9,facil
+10,puedo usar la aplicación sin conexión a internet,11,facil
+11,cómo exporto mis datos a un archivo csv,13,facil
+12,cómo comparto una carpeta con mi equipo,33,facil
+13,cómo activo las notificaciones push en el móvil,30,facil
+14,cómo contacto con el soporte técnico,37,facil
+15,quiero ver el historial de cambios de un documento,36,facil
+16,olvidé mi clave de acceso a la cuenta,1,dificil
+17,"no consigo entrar en mi cuenta, dice que está suspendida",3,dificil
+18,cómo colaboro con mis compañeros de trabajo en un proyecto,33,dificil
+19,quiero borrar toda mi información de forma definitiva,19,dificil
+20,quiero pasar a un plan más económico,5;15,dificil

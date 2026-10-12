@@ -1,0 +1,61 @@
+# Glossario di sigle e acronimi
+
+Prima di iniziare, tieni a portata di mano questo glossario. Nel corso del manuale incontrerai molte sigle: la prima volta che compaiono in ogni capitolo ne spieghiamo il significato completo, ma qui le trovi tutte insieme, in ordine alfabetico, da consultare quando ne hai bisogno.
+
+- **API** — *Application Programming Interface* (interfaccia di programmazione delle applicazioni): l'insieme di regole che permette a due programmi di comunicare tra loro
+- **BERT** — *Bidirectional Encoder Representations from Transformers*: modello di linguaggio basato su Transformer che legge il testo in entrambe le direzioni contemporaneamente
+- **BPTT** — *Backpropagation Through Time* (retropropagazione nel tempo): la variante di retropropagazione usata per addestrare le reti ricorrenti
+- **CIFAR** — *Canadian Institute For Advanced Research*: istituto che dà il nome agli insiemi di immagini di riferimento CIFAR-10 e CIFAR-100
+- **CNN** — *Convolutional Neural Network* (rete neurale convoluzionale): architettura specializzata nell'elaborazione di immagini e dati con struttura spaziale
+- **CPU** — *Central Processing Unit* (unità centrale di elaborazione): il processore di uso generale di un computer
+- **CTC** — *Connectionist Temporal Classification*: tecnica per addestrare modelli di sequenze quando non si conosce l'allineamento esatto tra input e output
+- **DCGAN** — *Deep Convolutional GAN*: variante di GAN che usa livelli convoluzionali per generare immagini
+- **ELBO** — *Evidence Lower Bound* (limite inferiore dell'evidenza): la funzione che si massimizza durante l'addestramento di un autoencoder variazionale
+- **ELU** — *Exponential Linear Unit*: funzione di attivazione simile a ReLU ma morbida per i valori negativi
+- **FGSM** — *Fast Gradient Sign Method*: tecnica per generare esempi avversari che ingannano una rete
+- **FID** — *Fréchet Inception Distance*: metrica che misura quanto le immagini generate da un modello somigliano alle immagini reali
+- **FPN** — *Feature Pyramid Network*: architettura che combina mappe di caratteristiche a scale diverse per rilevare oggetti di dimensioni diverse
+- **GAN** — *Generative Adversarial Network* (rete generativa antagonista): due reti, un generatore e un discriminatore, che competono tra loro per imparare a generare dati realistici
+- **GD** — *Gradient Descent* (discesa del gradiente): l'algoritmo di ottimizzazione di base che regola i parametri di un modello passo dopo passo
+- **GPT** — *Generative Pre-trained Transformer*: famiglia di modelli di linguaggio basati su Transformer pre-addestrati su larga scala
+- **GPU** — *Graphics Processing Unit* (unità di elaborazione grafica): chip specializzato in calcoli paralleli, fondamentale per addestrare velocemente le reti neurali
+- **GRU** — *Gated Recurrent Unit*: variante semplificata della LSTM per elaborare sequenze
+- **IA / AI** — Intelligenza Artificiale / *Artificial Intelligence*: il campo che studia come costruire sistemi in grado di svolgere compiti che richiedono "intelligenza"
+- **ICA** — *Independent Component Analysis* (analisi delle componenti indipendenti): tecnica per separare segnali mescolati nelle loro sorgenti originali
+- **IoU** — *Intersection over Union* (intersezione su unione): metrica che misura quanto si sovrappongono due regioni, molto usata nel rilevamento di oggetti
+- **KL** — divergenza di *Kullback-Leibler*: misura di quanto una distribuzione di probabilità si differenzia da un'altra
+- **LSTM** — *Long Short-Term Memory* (memoria a breve e lungo termine): tipo di rete ricorrente progettata per ricordare informazioni durante sequenze lunghe
+- **ML** — *Machine Learning* (apprendimento automatico): il campo che studia come un sistema impara schemi a partire dai dati
+- **MCMC** — *Markov Chain Monte Carlo*: famiglia di metodi per campionare da distribuzioni di probabilità complesse
+- **MI** — informazione mutua (*Mutual Information*): misura di quante informazioni condividono due variabili
+- **MLM** — *Masked Language Modeling* (modellazione del linguaggio mascherato): compito di addestramento che consiste nel prevedere parole nascoste in una frase
+- **MMD** — *Maximum Mean Discrepancy*: misura statistica della differenza tra due distribuzioni
+- **MNIST** — *Modified National Institute of Standards and Technology*: l'insieme di cifre scritte a mano più usato per imparare il deep learning
+- **MSE** — *Mean Squared Error* (errore quadratico medio): funzione di perdita che misura la media dell'errore al quadrato
+- **NAG** — *Nesterov Accelerated Gradient* (gradiente accelerato di Nesterov): variante del metodo del momento che "guarda avanti" prima di aggiornare
+- **NAS** — *Neural Architecture Search* (ricerca di architetture neurali): tecniche per automatizzare la progettazione dell'architettura di una rete
+- **NLP** — *Natural Language Processing* (elaborazione del linguaggio naturale): il campo che studia come far sì che un sistema comprenda e generi testo
+- **NSP** — *Next Sentence Prediction* (predizione della frase successiva): compito di addestramento che consiste nel prevedere se una frase segue un'altra
+- **NTM** — *Neural Turing Machine* (macchina di Turing neurale): rete neurale dotata di una memoria esterna da cui può leggere e in cui può scrivere
+- **PCA** — *Principal Component Analysis* (analisi delle componenti principali): tecnica classica per ridurre la dimensionalità dei dati
+- **QA** — *Question Answering* (risposta a domande): compito di NLP che consiste nel rispondere a domande su un testo
+- **ReLU** — *Rectified Linear Unit* (unità lineare rettificata): la funzione di attivazione più usata nelle reti profonde
+- **RGB** — *Red, Green, Blue* (rosso, verde, blu): il modello di colore standard di un'immagine digitale
+- **RL** — *Reinforcement Learning* (apprendimento per rinforzo): paradigma in cui un agente impara per tentativi ed errori a partire dalle ricompense
+- **RNN** — *Recurrent Neural Network* (rete neurale ricorrente): architettura progettata per elaborare sequenze mantenendo uno stato interno
+- **ROI** — *Region of Interest* (regione di interesse): la parte di un'immagine su cui si concentra un modello di rilevamento
+- **RPN** — *Region Proposal Network* (rete di proposta delle regioni): rete che propone regioni candidate in cui può trovarsi un oggetto in un'immagine
+- **SGD** — *Stochastic Gradient Descent* (discesa del gradiente stocastica): variante della discesa del gradiente che usa solo un sottoinsieme dei dati a ogni passo
+- **SVM** — *Support Vector Machine* (macchina a vettori di supporto): modello classico di machine learning per la classificazione
+- **t-SNE** — *t-distributed Stochastic Neighbor Embedding*: tecnica per visualizzare dati ad alta dimensionalità in due o tre dimensioni
+- **TPU** — *Tensor Processing Unit*: chip progettato specificamente da Google per accelerare l'addestramento delle reti neurali
+- **TTS** — *Text-to-Speech* (da testo a voce): tecnologia che converte il testo scritto in voce sintetizzata
+- **TTUR** — *Two Time-Scale Update Rule* (regola di aggiornamento a due scale temporali): tecnica che usa tassi di apprendimento diversi per il generatore e il discriminatore di una GAN
+- **VAE** — *Variational Autoencoder* (autoencoder variazionale): modello generativo che impara una distribuzione di probabilità in uno spazio latente
+- **VI** — inferenza variazionale (*Variational Inference*): famiglia di metodi per approssimare distribuzioni di probabilità complesse
+- **VQ** — quantizzazione vettoriale (*Vector Quantization*): tecnica per rappresentare dati continui con un insieme finito di vettori
+- **WGAN** — *Wasserstein GAN*: variante di GAN che usa la distanza di Wasserstein per stabilizzare l'addestramento
+- **XOR** — *Exclusive OR* (o esclusivo): la classica funzione logica che dimostra perché servono strati nascosti in una rete neurale
+- **YOLO** — *You Only Look Once* (guardi una sola volta): famiglia di modelli di rilevamento di oggetti in tempo reale
+
+**Torna a questa pagina ogni volta che incontri una sigla che non ricordi!**

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "demo-001",
+    "mittente": "Marco Ferretti <marco.ferretti@aziendaesempio.it>",
+    "oggetto": "Riunione di team spostata a giovedì",
+    "corpo": "Ciao a tutti,\n\nla riunione settimanale di allineamento è spostata da mercoledì a giovedì alle 10:00, stessa sala. Vi mando l'invito aggiornato a breve.\n\nA giovedì,\nMarco",
+    "data": "2026-08-11T09:12:00",
+    "letta": false
+  },
+  {
+    "id": "demo-002",
+    "mittente": "Udemy Notifiche <no-reply@udemy.com>",
+    "oggetto": "Nuova risposta al tuo commento su \"Reti e sicurezza informatica\"",
+    "corpo": "Ciao Raffaele,\n\nc'è una nuova risposta a \"Configurazione VPN su Linux\" nel corso \"Reti e sicurezza informatica di base\".\n\nUsa il pulsante nel tuo account per vedere la risposta e indicare se è stata utile. Puoi gestire le notifiche dalle impostazioni del tuo profilo.",
+    "data": "2026-08-12T18:40:00",
+    "letta": true
+  },
+  {
+    "id": "demo-003",
+    "mittente": "PayPal Assistenza <servizio@paypa1-security.com>",
+    "oggetto": "Il tuo account è stato temporaneamente limitato",
+    "corpo": "Gentile cliente,\n\nabbiamo rilevato attività insolita sul tuo account PayPal. Per motivi di sicurezza il tuo account è stato temporaneamente limitato.\n\nPer ripristinare l'accesso completo, verifica subito i tuoi dati entro 24 ore visitando: http://paypa1-security.com/verifica-account\n\nSe non confermi entro il termine indicato, l'account verrà sospeso definitivamente.\n\nCordiali saluti,\nTeam Sicurezza PayPal",
+    "data": "2026-08-13T07:05:00",
+    "letta": false
+  },
+  {
+    "id": "demo-004",
+    "mittente": "Poste Italiane <avvisi@poste-italiane-verifica.click>",
+    "oggetto": "Pacco in giacenza: azione richiesta entro 48 ore",
+    "corpo": "Gentile utente,\n\nil corriere non è riuscito a consegnare il tuo pacco per un problema con l'indirizzo. Il pacco è ora in giacenza.\n\nConferma i tuoi dati e paga il piccolo supplemento di 1,99 EUR per la riconsegna qui: http://poste-italiane-verifica.click/conferma\n\nIn caso contrario il pacco sarà rispedito al mittente.\n\nPoste Italiane",
+    "data": "2026-08-13T11:22:00",
+    "letta": false
+  },
+  {
+    "id": "demo-005",
+    "mittente": "Intesa Sanpaolo Sicurezza <sicurezza@banca-intesa-sicura.info>",
+    "oggetto": "Aggiornamento obbligatorio credenziali online banking",
+    "corpo": "Gentile Cliente,\n\nper adeguarci alle nuove normative europee sulla sicurezza bancaria, ti chiediamo di aggiornare le tue credenziali di accesso entro 72 ore.\n\nAccedi al modulo sicuro: http://banca-intesa-sicura.info/aggiorna-credenziali\n\nIl mancato aggiornamento comporterà la sospensione temporanea dell'home banking.\n\nIntesa Sanpaolo",
+    "data": "2026-08-13T14:50:00",
+    "letta": false
+  },
+  {
+    "id": "demo-006",
+    "mittente": "Microsoft Account Team <support@login-microsoft-support.xyz>",
+    "oggetto": "Il tuo account Microsoft è stato sospeso",
+    "corpo": "Abbiamo rilevato un accesso sospetto al tuo account Microsoft da un dispositivo non riconosciuto.\n\nPer motivi di sicurezza l'account è stato temporaneamente sospeso. Verifica la tua identità qui: http://login-microsoft-support.xyz/verify\n\nSe non agisci entro 24 ore, i dati associati all'account potrebbero andare persi.\n\nMicrosoft Account Team",
+    "data": "2026-08-14T08:15:00",
+    "letta": false
+  },
+  {
+    "id": "demo-007",
+    "mittente": "Amazon Sicurezza Account <account@amaz0n-verifica.net>",
+    "oggetto": "Verifica necessaria: attività insolita rilevata",
+    "corpo": "Ciao,\n\nabbiamo notato un tentativo di accesso al tuo account Amazon da una nuova posizione. Se non sei stato tu, potrebbe trattarsi di un tentativo di accesso non autorizzato.\n\nConferma la tua identità immediatamente: http://amaz0n-verifica.net/conferma-identita\n\nAmazon si riserva il diritto di sospendere l'account in assenza di verifica.",
+    "data": "2026-08-14T16:33:00",
+    "letta": false
+  },
+  {
+    "id": "demo-008",
+    "mittente": "Corriere Espresso Tracking <tracking@corriere-tracking-pacco.top>",
+    "oggetto": "Spedizione IT-88213: dazio doganale da pagare",
+    "corpo": "La tua spedizione internazionale è bloccata in dogana per un dazio non pagato di 2,50 EUR.\n\nPaga subito per sbloccare la consegna: http://corriere-tracking-pacco.top/paga-dazio\n\nCodice tracking: IT-88213-CN",
+    "data": "2026-08-15T09:02:00",
+    "letta": false
+  },
+  {
+    "id": "demo-009",
+    "mittente": "Barrister Anthony Magnus <a.magnus.legal@mailfast-proton.com>",
+    "oggetto": "Proposta d'affari riservata e urgente",
+    "corpo": "Gentile Signore/a,\n\nMi chiamo Anthony Magnus, avvocato incaricato della gestione del patrimonio di un defunto cliente senza eredi diretti, per un valore di 8.500.000 USD.\n\nLe propongo una collaborazione riservata per il trasferimento di questi fondi, con una commissione del 30% per lei. È necessaria la massima riservatezza e una risposta urgente entro 48 ore.\n\nMi confermi la sua disponibilità e le invierò i documenti.\n\nDistinti saluti,\nAvv. Anthony Magnus",
+    "data": "2026-08-15T12:47:00",
+    "letta": false
+  },
+  {
+    "id": "demo-010",
+    "mittente": "FarmaMiracolo Offerte <offerte@farmamiracolo-sconti.biz>",
+    "oggetto": "SCONTO 90%!!! Dimagrisci 10kg in una settimana senza dieta",
+    "corpo": "APPROFITTA ORA!!! Scopri la pillola miracolosa che migliaia di italiani stanno usando per dimagrire senza sforzo.\n\nOfferta lampo valida solo OGGI: sconto del 90% + spedizione gratuita.\n\nClicca qui per ordinare: http://farmamiracolo-sconti.biz/ordina\n\nAffrettati, le scorte stanno finendo!",
+    "data": "2026-08-15T20:10:00",
+    "letta": false
+  },
+  {
+    "id": "demo-011",
+    "mittente": "CryptoRicchezza Investimenti <info@cryptoricchezza-invest.biz>",
+    "oggetto": "Guadagna 5.000 EUR al mese investendo solo 100 EUR",
+    "corpo": "Un'opportunità unica nel mondo delle criptovalute! Il nostro algoritmo garantisce rendimenti del 500% in un mese.\n\nInvesti solo 100 EUR oggi stesso e inizia a guadagnare da domani. Posti limitati, iscriviti ora: http://cryptoricchezza-invest.biz/iscriviti\n\nGià oltre 50.000 italiani si sono arricchiti con noi!",
+    "data": "2026-08-16T10:05:00",
+    "letta": false
+  },
+  {
+    "id": "demo-012",
+    "mittente": "Fatturazione Fornitore Ufficio <fatture@cartotecnica-rossi.it>",
+    "oggetto": "Fattura n. 2026-0341 - Materiale di cancelleria",
+    "corpo": "Buongiorno,\n\nin allegato la fattura n. 2026-0341 relativa alla fornitura di materiale di cancelleria consegnata la scorsa settimana. Il pagamento è dovuto entro 30 giorni data fattura, come da accordi.\n\nPer qualsiasi chiarimento restiamo a disposizione.\n\nCordiali saluti,\nUfficio Amministrazione - Cartotecnica Rossi",
+    "data": "2026-08-16T15:30:00",
+    "letta": true
+  },
+  {
+    "id": "demo-013",
+    "mittente": "Studio Dentistico Bianchi <segreteria@studiodentisticobianchi.it>",
+    "oggetto": "Promemoria appuntamento del 20 agosto",
+    "corpo": "Gentile Raffaele,\n\nle ricordiamo l'appuntamento di controllo fissato per il 20 agosto alle ore 16:30 presso il nostro studio.\n\nIn caso di impossibilità a presentarsi la preghiamo di avvisarci con almeno 24 ore di anticipo.\n\nA presto,\nSegreteria Studio Dentistico Bianchi",
+    "data": "2026-08-16T17:00:00",
+    "letta": true
+  },
+  {
+    "id": "demo-014",
+    "mittente": "Giulia Bini <pippo@email.com>",
+    "oggetto": "Foto delle vacanze",
+    "corpo": "Ciao!\n\nTi mando finalmente le foto del weekend in montagna, sono venute benissimo. Le trovi nell'album condiviso, dimmi cosa ne pensi!\n\nA presto,\nGiulia",
+    "data": "2026-08-17T08:20:00",
+    "letta": false
+  },
+  {
+    "id": "demo-015",
+    "mittente": "Servizio Clienti Netflix <no-reply@netflix.com>",
+    "oggetto": "Il tuo metodo di pagamento è stato aggiornato",
+    "corpo": "Ciao,\n\nti confermiamo che il metodo di pagamento associato al tuo abbonamento è stato aggiornato con successo. Se non hai effettuato tu questa modifica, contattaci dall'app ufficiale o dal sito netflix.com.\n\nBuona visione,\nIl team Netflix",
+    "data": "2026-08-17T10:00:00",
+    "letta": true
+  }
+]
